@@ -1,4 +1,4 @@
-# Lifeblood Network 🩸
+# RakhtNet🩸
 
 A modern, full-stack blood donation platform connecting donors, recipients, and blood banks in real-time. Built with React, Node.js, and MongoDB, Lifeblood Network aims to revolutionize the blood donation ecosystem by making it more accessible, efficient, and user-friendly.
 
