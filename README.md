@@ -45,10 +45,7 @@ Lifeblood Network was created with a simple yet powerful vision: to save lives b
 ### Installation
 
 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/lifeblood-network.git
-cd lifeblood-network
-```
+
 
 2. Install server dependencies
 ```bash
@@ -133,10 +130,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the ISC License.
 
-## 👥 Authors
-
-- Chandan 
-
----
 
 Made with ❤️ for humanity 
